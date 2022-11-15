@@ -1,0 +1,28 @@
+
+*{
+  box-sizing: border-box;
+}
+.registerContainer{
+  background: #75a7e3;
+  width: 100%;
+  height: 100vh;
+  margin-top: 40px;
+}
+
+.bg-navColor{
+  background: rgb(200, 175, 175);
+}
+
+.registerCard {
+  width: 100%;
+  max-width: 400px;
+  margin: auto;
+  margin-top: 50px;
+  background:white;
+  color: black;
+}
+
+.registerButton {
+  width: 100%;
+  display: block;
+}

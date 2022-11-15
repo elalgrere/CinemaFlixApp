@@ -1,0 +1,30 @@
+.mainnav {
+  position: fixed;
+  width: 100%;
+  z-index: 1;
+  top: 0;
+  left: 0;
+  margin-bottom: 20px;
+
+}
+.main-view {
+  font-family: 'Fira Sans', sans-serif;
+  background: #17134e;
+  width: 100%;
+  display: inline-block;
+}
+
+.navColor{
+  background: rgb(4, 4, 75);
+  position: fixed;
+  width: 100%;
+  z-index: 1;
+  top: 0;
+  left: 0;
+}
+
+.brand-name {
+  font-size: 30px;
+  font-weight: bold;
+  color: #2b0da2;
+}

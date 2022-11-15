@@ -1,0 +1,35 @@
+{
+  "name": "cinemaflix-client",
+  "version": "1.0.0",
+  "description": "",
+  "default": "src/index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alemtola/CinemaFlix-Client.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Alemtola/CinemaFlix-Client/issues"
+  },
+  "homepage": "https://github.com/Alemtola/CinemaFlix-Client#readme",
+  "dependencies": {
+    "axios": "^0.23.0",
+    "parcel": "^2.0.0-rc.0",
+    "prop-types": "^15.7.2",
+    "proptypes": "^1.1.0",
+    "react": "^17.0.2",
+    "react-bootstrap": "^2.0.0",
+    "react-dom": "^17.0.2",
+    "react-redux": "^7.2.6",
+    "react-router-dom": "^5.3.0",
+    "redux": "^4.1.2",
+    "redux-devtools-extension": "^2.13.9"
+  },
+  "devDependencies": {
+    "@parcel/transformer-sass": "^2.0.0-rc.0"
+  }
+}
