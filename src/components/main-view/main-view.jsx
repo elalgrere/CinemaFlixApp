@@ -1,5 +1,4 @@
 import React from 'react';
-//importing axios library to fetch movies from database
 import axios from 'axios';
 import { BrowserRouter as Router, Route, Redirect } from "react-router-dom";
 

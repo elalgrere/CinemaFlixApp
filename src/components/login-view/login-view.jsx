@@ -14,7 +14,7 @@ export function LoginView(props) {
   const handleSubmit = (e) => {
     e.preventDefault();
     /* Send a request to the server for authentication */
-    axios.post('https://immense-reef-38292.herokuapp.com/login', {
+    axios.post('https://myflixmoviesap.herokuapp.com/login', {
       Username: username,
       Password: password
     })
@@ -32,7 +32,7 @@ export function LoginView(props) {
     
       <Card className="loginCard">
         <Card.Body>
-          <Card.Title className="text-center">Welcome to CinemaFlix.</Card.Title>
+          <Card.Title className="text-center">Welcome to CinemaFlixApp.</Card.Title>
           <Card.Subtitle className="mb-2 text-muted text-center">Please Login</Card.Subtitle>
       
           <Form >

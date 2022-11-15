@@ -9,13 +9,13 @@
 
 .main-view {
   font-family: "Fira Sans", sans-serif;
-  background: #b4b1d7;
+  background: #17134e;
   width: 100%;
   display: inline-block;
 }
 
 .navColor {
-  background: #aaaad7;
+  background: #04044b;
   position: fixed;
   width: 100%;
   z-index: 1;
@@ -27,21 +27,6 @@
   font-size: 30px;
   font-weight: bold;
   color: #2b0da2;
-}
-.movieContainer {
-  margin-top: 50px;
-  display: inline-block;
-}
-
-.movieCard {
-  width: 100%;
-  margin: 20px;
-}
-
-.cardImage {
-  width: 100% !important;
-  height: 200px !important;
-  object-fit: cover;
 }
 * {
   box-sizing: border-box;
@@ -293,7 +278,7 @@
   max-width: 400px;
   margin: auto;
   margin-top: 50px;
-  background: white;
+  background: #bdd0e6;
   color: black;
 }
 
